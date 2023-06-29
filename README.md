@@ -19,7 +19,7 @@ REST API для сервиса YaMDb — базы отзывов о фильма
 ----------
 1. Клонировать репозиторий
 ```bash
-git clone https://github.com/kirill31337/api_yamdb.git
+git clone https://github.com/Glebastaa/api_yamdb.git
 
 cd api_final_yatube
 ```
